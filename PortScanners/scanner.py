@@ -65,7 +65,7 @@ def main():
     
     else:
         print("Invalid number arguments")
-        print("Usage: python3 portscanner.py <target>")
+        print("Usage: python3 scanner.py <target>")
         sys.exit(1)
     
     print("-" * 50)

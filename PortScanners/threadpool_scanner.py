@@ -60,7 +60,7 @@ def main() -> None:
     
     else:
         print("invalid number arguments")
-        print("Usage: python portscanner.py <target>")
+        print("Usage: python threadpool_scanner.py <target>")
         sys.exit(1)
     
     threaded_scanner(target)
