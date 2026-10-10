@@ -2,11 +2,11 @@
 **Scans all ports to specified IP address for any open TCP ports**
 
 ## Usage
-python scanner.py <target IP>
+python scanner.py <"target IP">
 
 or
 
-python threadpool_scanner.py <target IP>
+python threadpool_scanner.py <"target IP">
 
 ## Description
 Two separate port scanners to check all ports on a specified IP
